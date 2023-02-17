@@ -47,3 +47,8 @@ Express
 PostgreSQL
 
 Socket.IO
+
+
+## Deploy
+
+[NovaTech](https://henrytech.vercel.app/)
