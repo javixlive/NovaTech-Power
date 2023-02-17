@@ -2,49 +2,48 @@
 
   ![image](https://res.cloudinary.com/debfwgutb/image/upload/v1675434666/BoxTech.png)
 
-Nova Tech es el E-Commerce que se contruyo para el Proyecto Final del Bootcamp SoyHenry, el mismo esta orientado a la venta de componentes de computadoras. 
-Presenta las caracteristicas necesarias de un E-Commerce y es perfectamente funcional.
+NovaTech Power is an E-Commerce that was build for my final project at Henry Bootcamp, it’s a platform where people can buy/sell PC parts. It presents the necessary characteristics of an E-Commerce and is perfectly functional.
 
-# Caracteristicas
-🚀Chat grupal en tiempo real.
+# Characteristics
+🚀Group chat in real time.
 
-🔥Facturas en PDF
+🔥PDF invoices.
 
-🚄Notificaciones PUSH en tiempo real
+🚄Real-time PUSH notifications.
 
-⚡CRUD de productos.
+⚡CRUD of products.
 
-🌍Autenticación de terceros con Google
+🌍Third party authentication with Google.
 
-📈Dashboard con gráficos en tiempo real
+📈Dashboard with real-time graphics.
 
-🕶Capacidad de convertir a un usuario en usuario root
+🕶Ability to make a user root user
 
-🛡Pasarela de pagos con PayPal
+💸Payment gateway with PayPal
 
-📲Aplicación nativa para Android.
-
+📲Native application for Android
 
 
-# Tecnologias Implementadas
 
-# Lenguaje
+# Technologies Implemented
+
+# Language
 
 JavaScript
 
 # Frontend
 React
 
-Redux Tool Kit
+Redux ToolKit
 
-MUI 
+Material UI 
 
-# Backend y Base de Datos
+# Backend and Database
 
 NodeJs
 
 Express
 
-PostgreSQL (manejado mediante Sequelize)
+PostgreSQL
 
 Socket.IO
